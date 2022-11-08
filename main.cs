@@ -24,7 +24,7 @@ class Program
         celsius = (fahrenheit - 32) * 5 / 9;
 
         Console.WriteLine(" ");
-        Console.WriteLine("Celsius : " + celsius .ToString("0.00") + " °C");
+        Console.WriteLine("Celsius : " + celsius.ToString("0.00") + " °C");
 
         Console.WriteLine("\nDone.");
     }
